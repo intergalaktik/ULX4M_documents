@@ -7,7 +7,7 @@ Modular FPGA board
 - [ ] Study FPGA pinout and the way we can connect ECP5
 - [ ] Have some pictures/animation of boards snapping together
 - [ ] Assembly Board and test connections
-- [ ] Start to work on first doughter board that will have selected connectors
+- [ ] Start to work on module board that will have selected connectors
 - [ ] Order board
 - [ ] Have some pictures/animation of boards snapping together
 - [ ] Assembly
@@ -22,7 +22,7 @@ Modular FPGA board
 - [ ] Test all onboard periferal
 - [ ] Adding periferals to the board
 - [ ] Ordering
-- [ ] Start to work on some other vendor doughter board
+- [ ] Start to work on some other vendor module board
 - [ ] Do some blender animation with main board and different vendors
 - [ ] Assembly main board
 - [ ] Write some Verilog test examples
