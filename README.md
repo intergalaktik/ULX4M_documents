@@ -1,12 +1,12 @@
 # ULX4M
 Modular FPGA board
 
-- [ ] Create few simple boards with different type of connectors
-- [ ] Board will have powersupply and few leds
-- [ ] Order boards
-- [ ] Study FPGA pinout and the way we can connect ECP5
-- [ ] Have some pictures/animation of boards snapping together
-- [ ] Assembly Board and test connections
+- [x] Create few simple boards with different type of connectors
+- [x] Board will have powersupply and few leds -- changed to HDMI connector
+- [x] Order boards
+- [x] Study FPGA pinout and the way we can connect ECP5
+- [x] Have some pictures/animation of boards snapping together
+- [x] Assembly Board and test connections
 - [ ] Start to work on module board that will have selected connectors
 - [ ] Order board
 - [ ] Have some pictures/animation of boards snapping together
