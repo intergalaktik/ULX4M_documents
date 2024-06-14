@@ -78,4 +78,4 @@ Interested in This Project?
 
 You can sign up right at the top of this page to be notified when this campaign launches and to receive any other useful updates. You can also contact us on our discord server: 
 
-https://discord.gg/HVXczxk3
+[https://discord.gg/HVXczxk3](https://discord.gg/MUuCxwqFs3)
